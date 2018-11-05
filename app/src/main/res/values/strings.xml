@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Note Taker</string>
+    <string name="new_note">New Note</string>
+    <string name="title">Title</string>
+    <string name="done">DONE</string>
+    <string name="delete">Delete</string>
+    <string name="are_you_sure">"Are you sure you want to delete all your notes? "</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="share">Share</string>
+    <string name="note_q">" note?"</string>
+    <string name="valid_title">Enter Valid Title</string>
+    <string name="selected">" selected"</string>
+    <string-array name="categories">
+        <item>Personal</item>
+        <item>School</item>
+        <item>Work</item>
+        <item>Other</item>
+    </string-array>
+</resources>
